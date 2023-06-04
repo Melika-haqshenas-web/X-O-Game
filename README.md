@@ -2,17 +2,15 @@
 
 🤐**Play X-O-Game game with your friend and enjoy.**
 
-![1](https://github.com/Melika-haqshenas-web/Rock-Paper-Scissor-Game/assets/126666369/97d6742f-c2ae-4c97-9d91-751737285207)
+![1](https://github.com/Melika-haqshenas-web/X-O-Game/assets/126666369/7a631f43-03ac-49f3-87ff-3ed5ad13896a)
 
-![2](https://github.com/Melika-haqshenas-web/Rock-Paper-Scissor-Game/assets/126666369/11d55abb-e6af-4045-bf71-eb4fc6404d10)
+![2](https://github.com/Melika-haqshenas-web/X-O-Game/assets/126666369/806e50f0-5547-46c3-882f-6d9cb38f3328)
 
-![3](https://github.com/Melika-haqshenas-web/Rock-Paper-Scissor-Game/assets/126666369/26034ab3-1144-4c56-88a6-c0cfadea3ff3)
+![3](https://github.com/Melika-haqshenas-web/X-O-Game/assets/126666369/9e7ea603-5741-43f6-83ec-30ed3954bee2)
 
-![4](https://github.com/Melika-haqshenas-web/Rock-Paper-Scissor-Game/assets/126666369/f672e0ec-8acb-4154-b03e-191e0c7aa218)
+![4](https://github.com/Melika-haqshenas-web/X-O-Game/assets/126666369/e0b982ef-dbf4-413c-ab2e-07049aa81016)
 
-![5](https://github.com/Melika-haqshenas-web/Rock-Paper-Scissor-Game/assets/126666369/931c3b37-9c72-476b-a054-6666d0704805)
-
-![6](https://github.com/Melika-haqshenas-web/Rock-Paper-Scissor-Game/assets/126666369/2d51e219-b3a7-4aad-9d9a-4b0972eab758)
+![5](https://github.com/Melika-haqshenas-web/X-O-Game/assets/126666369/fe32143c-47d5-4ae4-8c2e-d56714ee3691)
 
 - [Demo Project](https://melika-haqshenas-web.github.io/X-O-Game/)
 
